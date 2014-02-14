@@ -1,4 +1,5 @@
 MCExtreme-Recoded
 =================
+Repo for our members - It is a mod for Minecraft which changes everything. Literally.
 
-It is a mod for Minecraft which changes everything. Literally. {RECODED}
+Also check out our wiki! http://mcextreme.wikia.com
