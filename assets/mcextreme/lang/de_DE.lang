@@ -1,0 +1,127 @@
+#VERSION 3 - Translated by domi1819
+
+#######################################################
+
+#MC-X Aesthetics
+
+#Misc
+itemGroup.mcx.aesthetics=MC-Extreme: Aesthetics
+
+#######################################################
+
+#MC-X Magic
+
+#Blocks
+tile.blockMagicOre.0.name=Aquamarinerz
+tile.solidEvil.name=Festes Unheil
+tile.worldEnd.name=Das Ende der Welt
+tile.liquidDarkness.name=Fl\u00fcssige Finsternis
+
+#Items
+item.magicCrystal.0.name=Aquamarinkristall
+
+#Misc
+itemGroup.mcx.magic=MC-Extreme: Magie
+
+#######################################################
+
+#MC-X Tech
+
+#Blocks
+tile.blockTechOre.0.name=Bauxit
+tile.blockTechOre.1.name=Cuprit
+tile.blockTechOre.2.name=Galenit
+tile.blockTechOre.3.name=Garnierit
+tile.blockTechOre.4.name=Platinerz
+tile.blockTechOre.5.name=Akanthit
+tile.blockTechOre.6.name=Kassiterit
+tile.blockTechOre.7.name=Sphalerit
+tile.blockTechOre.8.name=Chromit
+tile.blockTechOre.9.name=Spodumen
+tile.blockTechOre.10.name=Zinnober
+tile.blockTechOre.11.name=Realgar
+tile.blockTechOre.12.name=Pechblende
+tile.blockTechOre.13.name=Magnet
+tile.blockTechOre.14.name=Pyrit
+tile.blockTechOre.15.name=Ididiumerz
+tile.blockTechStorage.0.name=Aluminiumblock
+tile.blockTechStorage.1.name=Kupferblock
+tile.blockTechStorage.2.name=Bleiblock
+tile.blockTechStorage.3.name=Nickelblock
+tile.blockTechStorage.4.name=Platinblcok
+tile.blockTechStorage.5.name=Silberblock
+tile.blockTechStorage.6.name=Zinnblock
+tile.blockTechStorage.7.name=Zinkblock
+tile.blockTechStorage.8.name=Uranblock
+tile.blockTechStorage.9.name=Chromblock
+tile.blockTechStorage.10.name=Quecksiblerblock
+tile.blockTechStorage.11.name=Arsenblock
+tile.blockTechStorage.12.name=Antimonblock
+tile.blockTechStorage.13.name=Lithiumblock
+tile.blockTechStorage.14.name=Strontiumblock
+tile.blockTechStorage.15.name=Iridiumblock
+tile.blockBreaker.name=Blockzerst\u00f6rer
+tile.blockPlacer.name=Blockplatzierer
+tile.machineCompressor.name=Kompressor
+tile.liquidConcrete.name=Fl\u00fcssiger Beton
+tile.rebar.name=Betonstahl
+tile.solidconcrete.name=Ausgeh\u00e4rteter Beton
+
+#Items
+item.screwdriver.name=Schraubendreher
+item.ingotMCExtreme.0.name=Aluminiumbarren
+item.ingotMCExtreme.1.name=Kupferbarren
+item.ingotMCExtreme.2.name=Bleibarren
+item.ingotMCExtreme.3.name=Nickelbarren
+item.ingotMCExtreme.4.name=Platinbarren
+item.ingotMCExtreme.5.name=Silberbarren
+item.ingotMCExtreme.6.name=Zinnbarren
+item.ingotMCExtreme.7.name=Zinkbarren
+item.ingotMCExtreme.8.name=Uranbarren
+item.ingotMCExtreme.9.name=Chrombarren
+item.ingotMCExtreme.10.name=Quecksilberflasche
+item.ingotMCExtreme.11.name=Arsenbarren
+item.ingotMCExtreme.12.name=Antimonbarren
+item.ingotMCExtreme.13.name=Lithiumbarren
+item.ingotMCExtreme.14.name=Strontiumbarren
+item.ingotMCExtreme.15.name=Iridiumbarren
+item.ingotMCExtreme.16.name=Titanbarren
+item.ingotMCExtreme.17.name=Wolframbarren
+item.ingotMCExtreme.18.name=Dunkler Eisenbarren
+item.nanotube.name=Nanor\u00f6hre
+item.dbgscrewdriver.name=Debug-Schraubendreher
+item.concretebucket.name=Betoneimer
+item.crowbar.name=Brecheisen
+item.wrench.name=Schraubschl\u00fcssel
+item.hammer.name=Hammer
+item.pliers.name=Zange
+
+#Misc
+itemGroup.mcx.tech=MC-Extreme: Technik
+
+#######################################################
+
+#MC-X Utilities
+
+#Blocks
+tile.blockBin.name=Abfalleimer
+
+#Items
+
+
+#Misc
+itemGroup.mcx.utilities=MC-Extreme: Utilities
+
+#######################################################
+
+#MC-X VanillaTweaks
+
+#Blocks
+tile.blockCharcoal.name=Holzkohleblock
+
+#Items
+item.linkIron.name=Eisenkettenglied
+item.plateIron.name=Eisenplatte
+
+#Misc
+itemGroup.mcx.vtweaks=MC-Extreme: Vanilla Tweaks

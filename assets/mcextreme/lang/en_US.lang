@@ -1,0 +1,127 @@
+#VERSION 3
+
+#######################################################
+
+#MC-X Aesthetics
+
+#Misc
+itemGroup.mcx.aesthetics=MC-Extreme: Aesthetics
+
+#######################################################
+
+#MC-X Magic
+
+#Blocks
+tile.blockMagicOre.0.name=Aquamarine Ore
+tile.solidEvil.name=Solid Evil
+tile.worldEnd.name=World's End
+tile.liquidDarkness.name=Liquid Darkness
+
+#Items
+item.magicCrystal.0.name=Aquamarine Crystal
+
+#Misc
+itemGroup.mcx.magic=MC-Extreme: Magic
+
+#######################################################
+
+#MC-X Tech
+
+#Blocks
+tile.blockTechOre.0.name=Bauxite
+tile.blockTechOre.1.name=Cuprite
+tile.blockTechOre.2.name=Galena
+tile.blockTechOre.3.name=Garnierite
+tile.blockTechOre.4.name=Platinum Ore
+tile.blockTechOre.5.name=Acanthite
+tile.blockTechOre.6.name=Cassiterite
+tile.blockTechOre.7.name=Sphalerite
+tile.blockTechOre.8.name=Chromite
+tile.blockTechOre.9.name=Kunzite
+tile.blockTechOre.10.name=Clestine
+tile.blockTechOre.11.name=Realgar
+tile.blockTechOre.12.name=Uraninite
+tile.blockTechOre.13.name=Magnetite
+tile.blockTechOre.14.name=Pyrite
+tile.blockTechOre.15.name=Ididium Ore
+tile.blockTechStorage.0.name=Block of Aluminium
+tile.blockTechStorage.1.name=Block of Copper
+tile.blockTechStorage.2.name=Block of Lead
+tile.blockTechStorage.3.name=Block of Nickel
+tile.blockTechStorage.4.name=Block of Platinum
+tile.blockTechStorage.5.name=Block of Silver
+tile.blockTechStorage.6.name=Block of Tin
+tile.blockTechStorage.7.name=Block of Zinc
+tile.blockTechStorage.8.name=Block of Uranium
+tile.blockTechStorage.9.name=Block of Chromium
+tile.blockTechStorage.10.name=Block of Mercury
+tile.blockTechStorage.11.name=Block of Arsenic
+tile.blockTechStorage.12.name=Block of Antimony
+tile.blockTechStorage.13.name=Block of Lithium
+tile.blockTechStorage.14.name=Block of Strontium
+tile.blockTechStorage.15.name=Block of Iridium
+tile.blockBreaker.name=Block Breaker
+tile.blockPlacer.name=Block Placer
+tile.machineCompressor.name=Compressor
+tile.liquidConcrete.name=Liquid Concrete
+tile.rebar.name=Rebar
+tile.solidconcrete.name= Hardened Concrete
+
+#Items
+item.screwdriver.name=Screwdriver
+item.ingotMCExtreme.0.name=Aluminium Ingot
+item.ingotMCExtreme.1.name=Copper Ingot
+item.ingotMCExtreme.2.name=Lead Ingot
+item.ingotMCExtreme.3.name=Nickel Ingot
+item.ingotMCExtreme.4.name=Platinum Ingot
+item.ingotMCExtreme.5.name=Silver Ingot
+item.ingotMCExtreme.6.name=Tin Ingot
+item.ingotMCExtreme.7.name=Zinc Ingot
+item.ingotMCExtreme.8.name=Uranium Ingot
+item.ingotMCExtreme.9.name=Chromium Ingot
+item.ingotMCExtreme.10.name=Mercury Bottle
+item.ingotMCExtreme.11.name=Arsenic Ingot
+item.ingotMCExtreme.12.name=Antimony Ingot
+item.ingotMCExtreme.13.name=Lithium Ingot
+item.ingotMCExtreme.14.name=Strontium Ingot
+item.ingotMCExtreme.15.name=Iridium Ingot
+item.ingotMCExtreme.16.name=Titanium Ingot
+item.ingotMCExtreme.17.name=Tungsten Ingot
+item.ingotMCExtreme.18.name=Dark Iron Ingot
+item.nanotube.name=Nano Tube
+item.dbgscrewdriver.name=Debug Screwdriver
+item.concretebucket.name=Bucket of Concrete
+item.crowbar.name=Crowbar
+item.wrench.name=Wrench
+item.hammer.name=Hammer
+item.pliers.name=Pair of Pliers
+
+#Misc
+itemGroup.mcx.tech=MC-Extreme: Tech
+
+#######################################################
+
+#MC-X Utilities
+
+#Blocks
+tile.blockBin.name=Recycling Bin
+
+#Items
+
+
+#Misc
+itemGroup.mcx.utilities=MC-Extreme: Utilities
+
+#######################################################
+
+#MC-X VanillaTweaks
+
+#Blocks
+tile.blockCharcoal.name=Block of Charcoal
+
+#Items
+item.linkIron.name=Iron Link
+item.plateIron.name=Iron Plate
+
+#Misc
+itemGroup.mcx.vtweaks=MC-Extreme: Vanilla Tweaks

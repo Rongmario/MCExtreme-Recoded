@@ -1,0 +1,96 @@
+#VERSION 1
+#Spanish Translation: Kodehawa
+#WARNING: NOT FINISHED.
+
+#MC-X Magic
+
+#Blocks
+tile.blockMagicOre.0.name=Ore Aquamarino
+tile.solidEvil.name=Maldad Sólida
+tile.worldEnd.name=Destructor de mundos
+tile.liquidDarkness.name=Oscuridad Líquida
+
+#Items
+item.magicCrystal.0.name=Cristal Aquamarino
+
+#Misc
+itemGroup.mcx.magic=MC-Extreme: Magia
+
+#######################################################
+
+#MC-X Tech
+
+#Blocks
+tile.blockTechOre.0.name=Bauxite
+tile.blockTechOre.1.name=Cuprite
+tile.blockTechOre.2.name=Galena
+tile.blockTechOre.3.name=Garnierite
+tile.blockTechOre.4.name=Mena de Platino
+tile.blockTechOre.5.name=Acanthite
+tile.blockTechOre.6.name=Cassiterite
+tile.blockTechOre.7.name=Sphalerite
+tile.blockTechOre.8.name=Chromite
+tile.blockTechOre.9.name=Kunzite
+tile.blockTechOre.10.name=Clestine
+tile.blockTechOre.11.name=Realgar
+tile.blockTechOre.12.name=Uraninite
+tile.blockTechOre.13.name=Magnetite
+tile.blockTechOre.14.name=Pyrite
+tile.blockTechOre.15.name=Mena de Iridio
+tile.blockTechStorage.0.name=Bloque de Aluminio
+tile.blockTechStorage.1.name=Bloque de Cobre
+tile.blockTechStorage.2.name=Block of Lead
+tile.blockTechStorage.3.name=Bloque de Niquel
+tile.blockTechStorage.4.name=Bloque de Platino
+tile.blockTechStorage.5.name=Bloque de Plata
+tile.blockTechStorage.6.name=Bloque de Estaño
+tile.blockTechStorage.7.name=Bloque de Zinc
+tile.blockTechStorage.8.name=Bloque de Uranio
+#What is that?!
+tile.blockTechStorage.9.name=Block of Chromium 
+###
+tile.blockTechStorage.10.name=Bloque de Mercurio
+tile.blockTechStorage.11.name=Bloque de Arsenio
+tile.blockTechStorage.12.name=Block of Antimony
+tile.blockTechStorage.13.name=Bloque de Litio
+tile.blockTechStorage.14.name=Block of Strontium
+tile.blockTechStorage.15.name=Block of Iridium
+tile.blockBasicMachine.0.name=Block Breaker
+tile.blockBasicMachine.6.name=Block Placer
+
+#Items
+item.screwdriver.name=Atornillador
+item.ingotMCExtreme.0.name=Lingote de Aluminio
+item.ingotMCExtreme.1.name=Lingote de Cobre
+item.ingotMCExtreme.2.name=Lead Ingot
+item.ingotMCExtreme.3.name=Lingote de Niquel
+item.ingotMCExtreme.4.name=Lingote de Platino
+item.ingotMCExtreme.5.name=Lingote de Plata
+item.ingotMCExtreme.6.name=Lingote de Estaño
+item.ingotMCExtreme.7.name=Lingote de Zinc
+item.ingotMCExtreme.8.name=Lingote de Uranio
+item.ingotMCExtreme.9.name=Chromium Ingot
+item.ingotMCExtreme.10.name=Botella de Mercurio
+#Really?
+item.ingotMCExtreme.11.name=Lingote de Arsénico 
+item.ingotMCExtreme.12.name=Lingote de Antímonio
+item.ingotMCExtreme.13.name=Lingote de Litio
+item.ingotMCExtreme.14.name=Strontium Ingot
+item.ingotMCExtreme.15.name=Lingote de Iridio
+item.ingotMCExtreme.16.name=Lingote de Titanio
+item.ingotMCExtreme.17.name=Lingote de Tungsteno
+item.ingotMCExtreme.18.name=Lingote de Hierro Negro
+
+#Misc
+itemGroup.mcx.tech=MC-Extreme: Tecnología
+
+#######################################################
+
+#MC-X VanillaTweaks
+
+#Items
+item.linkIron.name=Iron Link
+item.plateIron.name=Iron Plate
+
+#Misc
+itemGroup.mcx.vtweaks=MC-Extreme: Vanilla Tweaks
