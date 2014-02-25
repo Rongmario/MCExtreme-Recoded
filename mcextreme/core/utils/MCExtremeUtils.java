@@ -25,26 +25,25 @@ public class MCExtremeUtils
     		String pluginVersion = "", label = "";
     		boolean failed = false;
     		
-    		//Kodehawa code: Fixed reflection usage for independent versioning system
-    		//To General: DO NOT CHANGE THIS CODE, pleeease :)
-    		
-    		try{
-    			Class clazz = Class.forName("mcextreme."+classes[i]);
-    			if(clazz != null){
+    		try
+    		{
+    			Class clazz = Class.forName("mcextreme." + classes[i]);
+    			if(clazz != null)
+    			{
     				Field name = clazz.getDeclaredField("pluginName");
     			    Field version = clazz.getDeclaredField("version");
-    			    if(name != null && version != null){
+    			    if(name != null && version != null)
+    			    {
     			    	name.setAccessible(true);
     			        version.setAccessible(true);
     			        pluginVersion = (String)version.get(null);
     			        label = (String)name.get(null);
-    	    		    label = (first ? " " : ", ")+label+"["+pluginVersion+"]";
+    	    		    label = (first ? " " : ", ") + label + "[" + pluginVersion + "]";
         			    first = false;
     			    }
     			}
     		}
     		catch(Exception exception){
-    			exception.printStackTrace();
     			failed = true;
     		}
     		
@@ -53,8 +52,8 @@ public class MCExtremeUtils
     		}
     	}
     	
-    	FMLLog.log(Level.INFO, "[MC-X] Loaded MC to the Extreme version " + MCExtremeCore.version + " for MC " + MCExtremeCore.mcversion);
-    	FMLLog.log(Level.INFO, pluginsFound); 
+    	FMLLog.info("[MC-X] Loaded MC to the Extreme version " + MCExtremeCore.version + " for MC " + MCExtremeCore.mcversion, "");
+    	FMLLog.info(pluginsFound, ""); 
 	}
 
     public static void registerDefaultBlocks(Block... blocks)
